@@ -1,0 +1,43 @@
+
+To see necessary pakages:
+-For virtual environment setup:PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect> py -m venv env
+-for activate it: PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect> .\env\Scripts\activate
+& type pip freeze   to see pakages
+
+for deactivate env: (env) PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect>
+  type : deactivate
+  then python manage.py runserver
+
+
+For creating jango project in current directory: put . at last
+PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect> python -m django startproject greatkart .
+
+
+for creation of category models:
+create app & add it to settings.py :
+python manage.py startapp category
+-create models
+
+python manage.py makemigrations
+python manage.py migrate   -it apply all migrations
+
+for images: pip install Pillow
+
+
+python manage.py createsuperuser  // for django admin login
+
+
+// for admin
+---Username:djangoadmin
+---Password:20590716&Kumar
+---Email:prabinchalaune@gmail.com
+
+
+python manage.py migrate
+python manage.py runserver   # which start server & create sqlite database
+
+
+//Custom usermodel: i.e login using email not username  in admin pannel:
+
+
+till -7:https://www.youtube.com/watch?v=Vsj4_NDuh8Y&list=PLBxwSeQlMDNiZU0TstZLivBGbtUmBEBgl&index=30
