@@ -40,4 +40,10 @@ python manage.py runserver   # which start server & create sqlite database
 //Custom usermodel: i.e login using email not username  in admin pannel:
 
 
-till -7:https://www.youtube.com/watch?v=Vsj4_NDuh8Y&list=PLBxwSeQlMDNiZU0TstZLivBGbtUmBEBgl&index=30
+//create urls-> views->models-> also ->admin for admin handling of these
+
+visit:gitignore.io & type django create command for gitignore file
+
+tut:51-55 ( error occur )  REcorrect & check -------- error in product detail page
+
+till -7:https://www.youtube.com/watch?v=fac5iX9Ce_w&list=PLBxwSeQlMDNiZU0TstZLivBGbtUmBEBgl&index=85
