@@ -1,7 +1,8 @@
 
 To see necessary pakages:
 -For virtual environment setup:PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect> py -m venv env
--for activate it: PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect> .\env\Scripts\activate
+For activate env: PS C:\Users\Acer\Desktop\Geolocation-foodOrder\project> .\env\Scripts\activate
+(env) PS C:\Users\Acer\Desktop\Geolocation-foodOrder\project> pip install -r requirements.txt
 & type pip freeze   to see pakages
 
 for deactivate env: (env) PS C:\Users\Acer\Desktop\Pro\AdvanceDjangoselect>
